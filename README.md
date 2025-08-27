@@ -24,7 +24,7 @@
 
 ## 📌 Featured Projects  
 Here are some of my best works (click to view):  
--  [Hotel Performance Dashboard](https://github.com/harsh-dataportfolio/Hospitality-dashboard-Power-Bi-) - An interactive Power BI dashboard analyzing hotel revenue, occupancy, and customer trends for AtliQ Grands.
+-  [Hotel Performance Dashboard](https://github.com/harsh-dataportfolio/Hotel-Performance-dashboard-Power-BI) - An interactive Power BI dashboard analyzing hotel revenue, occupancy, and customer trends for AtliQ Grands.
 - [Telecom Churn Analysis](https://github.com/harsh-dataportfolio/Power-BI-Customer-Churn-Dashboard) – Power BI dashboard analyzing churn drivers & KPIs.
 - [Coffee Sales Analysis](https://github.com/harsh-dataportfolio/SQL--Coffee-Sales-Analysis) – SQL-based insights into sales patterns & trends.
   
