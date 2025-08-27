@@ -1,6 +1,6 @@
 # Hi there, I'm Harsh 👋  
 
- *"Transforming data into insights that empower smarter decisions."*  
+ *"An Aspiring Data Analyst who loves Transforming data into insights that empower smarter decisions."*  
 
 ---
 
